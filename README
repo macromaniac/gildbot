@@ -1,0 +1,12 @@
+
+This bot has two jobs:
+1) upload all reddit comments that receive n or more gilds to a subreddit
+2) leave only 1 comment on the highest gilded reddit comment of the day and no others
+
+current independant variables:
+
+username/pass of the bot
+subreddit the bot submits to
+comment that gets posted
+poll rate
+threshold n for gilds
