@@ -10,3 +10,6 @@ subreddit the bot submits to
 comment that gets posted
 poll rate
 threshold n for gilds
+
+
+tested on python 2.6.5
